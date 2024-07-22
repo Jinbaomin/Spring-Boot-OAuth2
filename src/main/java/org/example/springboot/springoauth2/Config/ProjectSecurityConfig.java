@@ -32,12 +32,12 @@ public class ProjectSecurityConfig {
 //    }
 //
 //    private ClientRegistration githubClientRegistration() {
-//        return CommonOAuth2Provider.GITHUB.getBuilder("github").clientId("Ov23lihhq2tdg30ErXmS")
-//                .clientSecret("1a7b3c618f5c085310f29d277e79aa1ab2a28626").build();
+//        return CommonOAuth2Provider.GITHUB.getBuilder("github").clientId("")
+//                .clientSecret("").build();
 //    }
 //
 //    private ClientRegistration facebookClientRegistration() {
-//        return CommonOAuth2Provider.FACEBOOK.getBuilder("facebook").clientId("1158342398571626")
-//                .clientSecret("bafae8e0c6f392790c8406889abad9d5").build();
+//        return CommonOAuth2Provider.FACEBOOK.getBuilder("facebook").clientId("")
+//                .clientSecret("").build();
 //    }
 }
